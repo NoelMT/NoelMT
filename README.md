@@ -1,4 +1,4 @@
-![](https://github.com/NoelMT/NoelMT/blob/main/git.png)
+![](  https://github.com/NoelMT/NoelMT/blob/main/mandel8k.png )
 <h1 align="center">Hi 👋, I'm Noel Tesfalidet</h1>
 <h3 align="center">I am 22 years old and I am currently pursuing a MSc in Information Technology at KTH, Royal Institute of Technology.</h3>
 
