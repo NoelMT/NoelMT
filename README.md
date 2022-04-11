@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [ID1019-Programming-II](https://github.com/NoelMT/ID1019-Programming-II)
 
-- 📫 How to reach me **Noetes@outlook.com**
+- 📫 How to reach me **Noelt@kth.se**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
