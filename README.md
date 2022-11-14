@@ -1,6 +1,6 @@
 ![](  https://github.com/NoelMT/NoelMT/blob/main/mandel8k.png )
 <h1 align="center">Hi 👋, I'm Noel Tesfalidet</h1>
-<h3 align="center">I am 22 years old and I am currently pursuing a MSc in Information Technology at KTH, Royal Institute of Technology.</h3>
+<h3 align="center">I am 23 years old and I am currently pursuing a MSc in Information Technology at KTH, Royal Institute of Technology.</h3>
 <p align="center">The Mandelbrot Set above was generated using this repository: <a href="https://github.com/NoelMT/ID1019-Programming-II/tree/main/Mandel">Mandelbrot Set</a></p> 
 
 
