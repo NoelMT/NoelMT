@@ -1,14 +1,12 @@
 ![](  https://github.com/NoelMT/NoelMT/blob/main/mandel8k.png )
 <h1 align="center">Hi 👋, I'm Noel Tesfalidet</h1>
-<h3 align="center">I am 24 years old and I am currently pursuing a MSc in Information Technology at KTH, Royal Institute of Technology.</h3>
+<h3 align="center">I am 24 years old and I am currently pursuing a MSc in Computer science at KTH, Royal Institute of Technology.</h3>
 <p align="center">The Mandelbrot Set above was generated using this repository: <a href="https://github.com/NoelMT/ID1019-Programming-II/tree/main/Mandel">Mandelbrot Set</a></p> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noelmt&label=Profile%20views&color=6d0075&style=plastic" alt="noelmt" /> </p>
 
-- 🔭 I’m currently working on [ID1019-Programming-II](https://github.com/NoelMT/ID1019-Programming-II)
-
-- 📫 How to reach me **Noelt@kth.se**
+📫 How to reach me **Noelt@kth.se**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
